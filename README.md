@@ -32,8 +32,8 @@ Relatórios e Dashboards
 
 Fornece insights sobre métricas de desempenho e SLAs (Service Level Agreements).
 Permite tomada de decisão baseada em dados.
-Benefícios do CA SDM:
-✔️ Aumenta a eficiência do suporte técnico.
-✔️ Melhora a satisfação dos usuários e clientes internos.
-✔️ Ajuda a manter conformidade com frameworks como ITIL.
-✔️ Automatiza processos de TI, reduzindo erros manuais.
+# Benefícios do CA SDM:
+- ✔️ Aumenta a eficiência do suporte técnico.
+- ✔️ Melhora a satisfação dos usuários e clientes internos.
+- ✔️ Ajuda a manter conformidade com frameworks como ITIL.
+- ✔️ Automatiza processos de TI, reduzindo erros manuais.
